@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">CRUD_DB</string>
+
+    <string name="title">DATA BASE CRUD</string>
+
+    <string name="id">>>> ID ></string>
+    <string name="user">>>> User ></string>
+    <string name="name">>>> Name ></string>
+    <string name="password">>>> Password ></string>
+
+    <string name="ButtonInsert">Insert</string>
+    <string name="ButtonFind">Find</string>
+    <string name="ButtonUpdate">Update</string>
+    <string name="ButtonDelete">Delete</string>
+
+</resources>
